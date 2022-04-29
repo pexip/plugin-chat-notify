@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    {
+      "id": "chat-notify-plugin-1.0",
+      "srcURL": "plugins/chat-notify/chat-notify.plugin.package.json",
+      "enabled": true
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "chat-notify-plugin-1.0",
+  "name": "chat",
+  "description": "Chat message indicator",
+  "version": 1.0,
+  "srcURL": "chat-notify.plugin.js",
+  "allowUnload": false,
+  "platforms": ["web", "electron", "ios", "android"],
+  "participantRoles": ["chair", "guest"],
+  "menuItems": {}
+}
